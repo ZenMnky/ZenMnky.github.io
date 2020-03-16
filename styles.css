@@ -98,6 +98,10 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
+.card-title {
+  text-align: center;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
